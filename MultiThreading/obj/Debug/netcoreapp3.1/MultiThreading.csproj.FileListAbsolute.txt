@@ -1,0 +1,13 @@
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.exe
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.deps.json
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.runtimeconfig.json
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.runtimeconfig.dev.json
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.dll
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.pdb
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.csprojAssemblyReference.cache
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.AssemblyInfo.cs
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.dll
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.pdb
+C:\Users\62812\Documents\GitHub\CSharpTemplate\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.genruntimeconfig.cache
